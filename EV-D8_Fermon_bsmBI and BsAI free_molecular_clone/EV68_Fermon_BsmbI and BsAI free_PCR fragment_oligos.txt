@@ -1,2 +1,0 @@
-EV68_Fermon_PCR_fwd	taactgtcagaccaagtttac	25nm	STD
-EV68_Fermon_PCR_rev	ggcaatcaggcagtaatg	25nm	STD
