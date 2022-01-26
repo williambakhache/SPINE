@@ -1,0 +1,430 @@
+2022-01-26 21:03:05,995 - DEBUG - primalscheme version 1.3.2
+2022-01-26 21:03:05,995 - INFO - References:
+ - Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:05,995 - INFO - Primary reference for coordinate system: Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:05,995 - INFO - Considering primers from all references
+2022-01-26 21:03:05,995 - DEBUG - MuliplexScheme
+Prefix: Fermon
+Amplicon size range: 285 - 315
+Target overlap: 0
+Primary only (pinned): False
+References:
+ - Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:05,995 - DEBUG - Window: left_limit 0, slice_start 0, right_limit 2580
+2022-01-26 21:03:05,995 - DEBUG - Region 1, pool 1
+2022-01-26 21:03:05,996 - DEBUG - Finding primers for slice 0 to 314
+2022-01-26 21:03:06,057 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+GGAGCTCAAGTTACTAGACAGCAAACTGGAACTCATGAGAATGCTAACA Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,057 - DEBUG - Picked primer LEFT:GGAGCTCAAGTTACTAGACAGCA:0
+2022-01-26 21:03:06,057 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 23 columns
+GGAGCTCAAGTTACTAGACAGCA Capsid_Fermon_SetinSpine_BsAI
+*********************** Cigar
+2022-01-26 21:03:06,058 - DEBUG - LEFT candidate 0: base pen 1.941, combined pen 1.941, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,058 - DEBUG - LEFT candidate 1: base pen 2.359, combined pen 2.359, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,058 - DEBUG - LEFT candidate 2: base pen 3.178, combined pen 3.178, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,058 - DEBUG - LEFT candidate 3: base pen 3.395, combined pen 3.395, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,058 - DEBUG - LEFT candidate 4: base pen 3.746, combined pen 3.746, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,058 - DEBUG - LEFT candidate 5: base pen 4.449, combined pen 4.449, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,058 - DEBUG - LEFT candidate 6: base pen 5.204, combined pen 5.204, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,059 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+TTCACCATAAGCGCAACAGTAGTTTGCTGCTTCTTGAGTGACAATAGCT Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,059 - DEBUG - Picked primer RIGHT:CGCAACAGTAGTTTGCTGCTTC:303
+2022-01-26 21:03:06,059 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+CGCAACAGTAGTTTGCTGCTTC Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,059 - DEBUG - RIGHT candidate 0: base pen 0.089, combined pen 0.089, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,059 - DEBUG - RIGHT candidate 1: base pen 0.790, combined pen 0.790, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,059 - DEBUG - RIGHT candidate 2: base pen 1.046, combined pen 1.046, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,059 - DEBUG - RIGHT candidate 3: base pen 1.113, combined pen 1.113, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,060 - DEBUG - RIGHT candidate 4: base pen 1.191, combined pen 1.191, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,060 - DEBUG - RIGHT candidate 5: base pen 1.191, combined pen 1.191, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,060 - DEBUG - RIGHT candidate 6: base pen 1.216, combined pen 1.216, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,060 - DEBUG - RIGHT candidate 7: base pen 1.632, combined pen 1.632, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,060 - DEBUG - RIGHT candidate 8: base pen 1.632, combined pen 1.632, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,060 - DEBUG - RIGHT candidate 9: base pen 1.897, combined pen 1.897, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,063 - DEBUG - Window: left_limit 23, slice_start 217, right_limit 2580
+2022-01-26 21:03:06,063 - DEBUG - Region 2, pool 2
+2022-01-26 21:03:06,063 - DEBUG - Finding primers for slice 217 to 531
+2022-01-26 21:03:06,113 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+AGGCTTGTGGCTACAGTGATAGAGTACTACAACTCAAATTGGGCAACTC Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,113 - DEBUG - Picked primer LEFT:GGCTTGTGGCTACAGTGATAGA:218
+2022-01-26 21:03:06,114 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+GGCTTGTGGCTACAGTGATAGA Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,114 - DEBUG - LEFT candidate 0: base pen 0.987, combined pen 0.987, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,114 - DEBUG - LEFT candidate 1: base pen 0.987, combined pen 0.987, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,114 - DEBUG - LEFT candidate 2: base pen 1.009, combined pen 1.009, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,114 - DEBUG - LEFT candidate 3: base pen 1.394, combined pen 1.394, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,114 - DEBUG - LEFT candidate 4: base pen 1.628, combined pen 1.628, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,115 - DEBUG - LEFT candidate 5: base pen 2.779, combined pen 2.779, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,115 - DEBUG - LEFT candidate 6: base pen 3.275, combined pen 3.275, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,115 - DEBUG - LEFT candidate 7: base pen 3.338, combined pen 3.338, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,115 - DEBUG - LEFT candidate 8: base pen 3.977, combined pen 3.977, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,115 - DEBUG - LEFT candidate 9: base pen 4.022, combined pen 4.022, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,115 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+CATGAATTAAGAAGCCAGATCTGTATAGGTAGTGATATTGTACATTTTG Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,115 - DEBUG - Picked primer RIGHT:AGAAGCCAGATCTGTATAGGTAGTG:522
+2022-01-26 21:03:06,116 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 25 columns
+AGAAGCCAGATCTGTATAGGTAGTG Capsid_Fermon_SetinSpine_BsAI
+************************* Cigar
+2022-01-26 21:03:06,116 - DEBUG - RIGHT candidate 0: base pen 4.388, combined pen 4.388, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,116 - DEBUG - RIGHT candidate 1: base pen 4.824, combined pen 4.824, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,116 - DEBUG - RIGHT candidate 2: base pen 5.954, combined pen 5.954, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,116 - DEBUG - RIGHT candidate 3: base pen 6.445, combined pen 6.445, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,116 - DEBUG - RIGHT candidate 4: base pen 6.494, combined pen 6.494, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,117 - DEBUG - RIGHT candidate 5: base pen 7.122, combined pen 7.122, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,117 - DEBUG - RIGHT candidate 6: base pen 7.131, combined pen 7.131, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,117 - DEBUG - RIGHT candidate 7: base pen 7.166, combined pen 7.166, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,117 - DEBUG - RIGHT candidate 8: base pen 7.480, combined pen 7.480, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,117 - DEBUG - RIGHT candidate 9: base pen 7.495, combined pen 7.495, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,119 - DEBUG - Window: left_limit 304, slice_start 433, right_limit 2580
+2022-01-26 21:03:06,119 - DEBUG - Region 3, pool 1
+2022-01-26 21:03:06,119 - DEBUG - Finding primers for slice 433 to 747
+2022-01-26 21:03:06,169 - DEBUG - Stepping left to 422
+2022-01-26 21:03:06,169 - DEBUG - Finding primers for slice 422 to 736
+2022-01-26 21:03:06,263 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+TAATAGCACAGGATGGTGGTGGAAACTACCTGATGCATTAAACAACATA Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,263 - DEBUG - Picked primer LEFT:AGGATGGTGGTGGAAACTACCT:431
+2022-01-26 21:03:06,263 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+AGGATGGTGGTGGAAACTACCT Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,264 - DEBUG - LEFT candidate 0: base pen 0.045, combined pen 0.045, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,264 - DEBUG - LEFT candidate 1: base pen 0.200, combined pen 0.200, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,264 - DEBUG - LEFT candidate 2: base pen 0.200, combined pen 0.200, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,264 - DEBUG - LEFT candidate 3: base pen 0.619, combined pen 0.619, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,264 - DEBUG - LEFT candidate 4: base pen 0.619, combined pen 0.619, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,264 - DEBUG - LEFT candidate 5: base pen 0.814, combined pen 0.814, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,265 - DEBUG - LEFT candidate 6: base pen 0.856, combined pen 0.856, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,265 - DEBUG - LEFT candidate 7: base pen 0.856, combined pen 0.856, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,265 - DEBUG - LEFT candidate 8: base pen 0.989, combined pen 0.989, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,265 - DEBUG - LEFT candidate 9: base pen 1.012, combined pen 1.012, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,265 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+ATCCATTGATGTGGAAATATTGTCGCACAAGCTATTGATGTTCCATCAT Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,265 - DEBUG - Picked primer RIGHT:TGTGGAAATATTGTCGCACAAGC:727
+2022-01-26 21:03:06,265 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 23 columns
+TGTGGAAATATTGTCGCACAAGC Capsid_Fermon_SetinSpine_BsAI
+*********************** Cigar
+2022-01-26 21:03:06,266 - DEBUG - RIGHT candidate 0: base pen 1.385, combined pen 1.385, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,266 - DEBUG - RIGHT candidate 1: base pen 1.631, combined pen 1.631, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,266 - DEBUG - RIGHT candidate 2: base pen 2.009, combined pen 2.009, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,266 - DEBUG - RIGHT candidate 3: base pen 2.779, combined pen 2.779, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,266 - DEBUG - RIGHT candidate 4: base pen 2.898, combined pen 2.898, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,266 - DEBUG - RIGHT candidate 5: base pen 3.139, combined pen 3.139, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,266 - DEBUG - RIGHT candidate 6: base pen 3.139, combined pen 3.139, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,267 - DEBUG - RIGHT candidate 7: base pen 3.171, combined pen 3.171, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,267 - DEBUG - RIGHT candidate 8: base pen 3.232, combined pen 3.232, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,267 - DEBUG - RIGHT candidate 9: base pen 3.400, combined pen 3.400, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,269 - DEBUG - Window: left_limit 523, slice_start 640, right_limit 2580
+2022-01-26 21:03:06,269 - DEBUG - Region 4, pool 2
+2022-01-26 21:03:06,269 - DEBUG - Finding primers for slice 640 to 954
+2022-01-26 21:03:06,315 - DEBUG - Stepping left to 629
+2022-01-26 21:03:06,315 - DEBUG - Finding primers for slice 629 to 943
+2022-01-26 21:03:06,364 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+GTTTAATGATATCATGAAAGGTGAAAGAGGAGGGACGTTTAACCACCCA Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,364 - DEBUG - Picked primer LEFT:TCATGAAAGGTGAAAGAGGAGGG:640
+2022-01-26 21:03:06,364 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 23 columns
+TCATGAAAGGTGAAAGAGGAGGG Capsid_Fermon_SetinSpine_BsAI
+*********************** Cigar
+2022-01-26 21:03:06,364 - DEBUG - LEFT candidate 0: base pen 1.752, combined pen 1.752, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,364 - DEBUG - LEFT candidate 1: base pen 2.349, combined pen 2.349, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,365 - DEBUG - LEFT candidate 2: base pen 3.508, combined pen 3.508, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,365 - DEBUG - LEFT candidate 3: base pen 4.143, combined pen 4.143, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,365 - DEBUG - LEFT candidate 4: base pen 5.134, combined pen 5.134, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,365 - DEBUG - LEFT candidate 5: base pen 5.272, combined pen 5.272, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,365 - DEBUG - LEFT candidate 6: base pen 5.668, combined pen 5.668, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,365 - DEBUG - LEFT candidate 7: base pen 6.443, combined pen 6.443, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,365 - DEBUG - LEFT candidate 8: base pen 6.451, combined pen 6.451, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,366 - DEBUG - LEFT candidate 9: base pen 6.917, combined pen 6.917, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,366 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+GTGATGGCGTGCCTGAGTCCGTTAAACTCACAACACATAGGGGCAATTG Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,366 - DEBUG - Picked primer RIGHT:GTGCCTGAGTCCGTTAAACTCA:935
+2022-01-26 21:03:06,366 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+GTGCCTGAGTCCGTTAAACTCA Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,366 - DEBUG - RIGHT candidate 0: base pen 0.273, combined pen 0.273, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,366 - DEBUG - RIGHT candidate 1: base pen 0.273, combined pen 0.273, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,367 - DEBUG - RIGHT candidate 2: base pen 0.273, combined pen 0.273, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,367 - DEBUG - RIGHT candidate 3: base pen 0.665, combined pen 0.665, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,367 - DEBUG - RIGHT candidate 4: base pen 1.294, combined pen 1.294, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,367 - DEBUG - RIGHT candidate 5: base pen 1.300, combined pen 1.300, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,367 - DEBUG - RIGHT candidate 6: base pen 1.897, combined pen 1.897, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,367 - DEBUG - RIGHT candidate 7: base pen 2.037, combined pen 2.037, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,367 - DEBUG - RIGHT candidate 8: base pen 2.245, combined pen 2.245, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,368 - DEBUG - RIGHT candidate 9: base pen 2.317, combined pen 2.317, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,370 - DEBUG - Window: left_limit 728, slice_start 849, right_limit 2580
+2022-01-26 21:03:06,370 - DEBUG - Region 5, pool 1
+2022-01-26 21:03:06,370 - DEBUG - Finding primers for slice 849 to 1163
+2022-01-26 21:03:06,423 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+CCATTGGGTACACGCACAATGTCAAGTGTTGTCCCAATAACAGTTTCAA Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,423 - DEBUG - Picked primer LEFT:ATTGGGTACACGCACAATGTCA:851
+2022-01-26 21:03:06,423 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+ATTGGGTACACGCACAATGTCA Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,423 - DEBUG - LEFT candidate 0: base pen 0.006, combined pen 0.006, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,423 - DEBUG - LEFT candidate 1: base pen 0.030, combined pen 0.030, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,423 - DEBUG - LEFT candidate 2: base pen 0.187, combined pen 0.187, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,424 - DEBUG - LEFT candidate 3: base pen 0.345, combined pen 0.345, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,424 - DEBUG - LEFT candidate 4: base pen 0.345, combined pen 0.345, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,424 - DEBUG - LEFT candidate 5: base pen 0.409, combined pen 0.409, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,424 - DEBUG - LEFT candidate 6: base pen 0.475, combined pen 0.475, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,424 - DEBUG - LEFT candidate 7: base pen 0.562, combined pen 0.562, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,424 - DEBUG - LEFT candidate 8: base pen 0.563, combined pen 0.563, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,424 - DEBUG - LEFT candidate 9: base pen 0.600, combined pen 0.600, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,425 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+TGATATGTCAACTCTGAGTCGCTCCATGCCATTTGCGCCGTCTGTATTG Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,425 - DEBUG - Picked primer RIGHT:GTCAACTCTGAGTCGCTCCATG:1157
+2022-01-26 21:03:06,425 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+GTCAACTCTGAGTCGCTCCATG Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,425 - DEBUG - RIGHT candidate 0: base pen 0.166, combined pen 0.166, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,425 - DEBUG - RIGHT candidate 1: base pen 0.586, combined pen 0.586, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,425 - DEBUG - RIGHT candidate 2: base pen 0.586, combined pen 0.586, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,425 - DEBUG - RIGHT candidate 3: base pen 1.118, combined pen 1.118, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,426 - DEBUG - RIGHT candidate 4: base pen 1.194, combined pen 1.194, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,426 - DEBUG - RIGHT candidate 5: base pen 1.244, combined pen 1.244, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,426 - DEBUG - RIGHT candidate 6: base pen 1.378, combined pen 1.378, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,426 - DEBUG - RIGHT candidate 7: base pen 1.816, combined pen 1.816, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,426 - DEBUG - RIGHT candidate 8: base pen 1.946, combined pen 1.946, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,426 - DEBUG - RIGHT candidate 9: base pen 1.956, combined pen 1.956, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,428 - DEBUG - Window: left_limit 936, slice_start 1071, right_limit 2580
+2022-01-26 21:03:06,428 - DEBUG - Region 6, pool 2
+2022-01-26 21:03:06,428 - DEBUG - Finding primers for slice 1071 to 1385
+2022-01-26 21:03:06,480 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+AACATGTTGGAAATGATTCAAGTGGAATCAATGATGGAGATTAACAATA Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,480 - DEBUG - Picked primer LEFT:ACATGTTGGAAATGATTCAAGTGGA:1072
+2022-01-26 21:03:06,480 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 25 columns
+ACATGTTGGAAATGATTCAAGTGGA Capsid_Fermon_SetinSpine_BsAI
+************************* Cigar
+2022-01-26 21:03:06,480 - DEBUG - LEFT candidate 0: base pen 4.154, combined pen 4.154, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,480 - DEBUG - LEFT candidate 1: base pen 4.599, combined pen 4.599, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,480 - DEBUG - LEFT candidate 2: base pen 4.599, combined pen 4.599, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,481 - DEBUG - LEFT candidate 3: base pen 5.085, combined pen 5.085, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,481 - DEBUG - LEFT candidate 4: base pen 5.246, combined pen 5.246, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,481 - DEBUG - LEFT candidate 5: base pen 6.238, combined pen 6.238, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,481 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+AGTTTCTCTAGTTGTTGGGCATGATCCACCTGGAGGTGTGTAACATAGG Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,481 - DEBUG - Picked primer RIGHT:TAGTTGTTGGGCATGATCCACC:1377
+2022-01-26 21:03:06,481 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+TAGTTGTTGGGCATGATCCACC Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,481 - DEBUG - RIGHT candidate 0: base pen 0.196, combined pen 0.196, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,482 - DEBUG - RIGHT candidate 1: base pen 1.004, combined pen 1.004, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,482 - DEBUG - RIGHT candidate 2: base pen 1.004, combined pen 1.004, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,482 - DEBUG - RIGHT candidate 3: base pen 1.004, combined pen 1.004, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,482 - DEBUG - RIGHT candidate 4: base pen 1.122, combined pen 1.122, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,482 - DEBUG - RIGHT candidate 5: base pen 1.222, combined pen 1.222, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,482 - DEBUG - RIGHT candidate 6: base pen 1.373, combined pen 1.373, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,483 - DEBUG - RIGHT candidate 7: base pen 1.391, combined pen 1.391, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,483 - DEBUG - RIGHT candidate 8: base pen 1.419, combined pen 1.419, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,483 - DEBUG - RIGHT candidate 9: base pen 1.626, combined pen 1.626, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,485 - DEBUG - Window: left_limit 1158, slice_start 1291, right_limit 2580
+2022-01-26 21:03:06,485 - DEBUG - Region 7, pool 1
+2022-01-26 21:03:06,485 - DEBUG - Finding primers for slice 1291 to 1605
+2022-01-26 21:03:06,540 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+TGACATTCATGTTTTGCGGTAGTTTTATGGCAACAGGGAAATTGATCCT Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,540 - DEBUG - Picked primer LEFT:TGTTTTGCGGTAGTTTTATGGCA:1300
+2022-01-26 21:03:06,540 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 23 columns
+TGTTTTGCGGTAGTTTTATGGCA Capsid_Fermon_SetinSpine_BsAI
+*********************** Cigar
+2022-01-26 21:03:06,540 - DEBUG - LEFT candidate 0: base pen 2.066, combined pen 2.066, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,540 - DEBUG - LEFT candidate 1: base pen 2.479, combined pen 2.479, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,540 - DEBUG - LEFT candidate 2: base pen 2.658, combined pen 2.658, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,541 - DEBUG - LEFT candidate 3: base pen 2.838, combined pen 2.838, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,541 - DEBUG - LEFT candidate 4: base pen 2.959, combined pen 2.959, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,541 - DEBUG - LEFT candidate 5: base pen 3.014, combined pen 3.014, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,541 - DEBUG - LEFT candidate 6: base pen 3.109, combined pen 3.109, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,541 - DEBUG - LEFT candidate 7: base pen 3.225, combined pen 3.225, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,541 - DEBUG - LEFT candidate 8: base pen 3.399, combined pen 3.399, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,541 - DEBUG - LEFT candidate 9: base pen 3.453, combined pen 3.453, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,542 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+CTTTTGCTGCTATGAATCCTATTAAAGAACAAGTATCAGAGGACTCACT Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,542 - DEBUG - Picked primer RIGHT:TGCTGCTATGAATCCTATTAAAGAACA:1601
+2022-01-26 21:03:06,542 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 27 columns
+TGCTGCTATGAATCCTATTAAAGAACA Capsid_Fermon_SetinSpine_BsAI
+*************************** Cigar
+2022-01-26 21:03:06,542 - DEBUG - RIGHT candidate 0: base pen 6.498, combined pen 6.498, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,542 - DEBUG - RIGHT candidate 1: base pen 6.969, combined pen 6.969, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,542 - DEBUG - RIGHT candidate 2: base pen 6.969, combined pen 6.969, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,543 - DEBUG - RIGHT candidate 3: base pen 7.179, combined pen 7.179, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,543 - DEBUG - RIGHT candidate 4: base pen 7.179, combined pen 7.179, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,543 - DEBUG - RIGHT candidate 5: base pen 7.477, combined pen 7.477, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,543 - DEBUG - RIGHT candidate 6: base pen 7.477, combined pen 7.477, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,543 - DEBUG - RIGHT candidate 7: base pen 7.481, combined pen 7.481, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,543 - DEBUG - RIGHT candidate 8: base pen 8.018, combined pen 8.018, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,543 - DEBUG - RIGHT candidate 9: base pen 8.018, combined pen 8.018, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,545 - DEBUG - Window: left_limit 1378, slice_start 1510, right_limit 2580
+2022-01-26 21:03:06,545 - DEBUG - Region 8, pool 2
+2022-01-26 21:03:06,546 - DEBUG - Finding primers for slice 1510 to 1824
+2022-01-26 21:03:06,598 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+ATGTTGGCTATGTAACCTGTTTCATGCAGACCAACCTGATAGTCCCCAG Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,598 - DEBUG - Picked primer LEFT:TGTAACCTGTTTCATGCAGACCA:1520
+2022-01-26 21:03:06,598 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 23 columns
+TGTAACCTGTTTCATGCAGACCA Capsid_Fermon_SetinSpine_BsAI
+*********************** Cigar
+2022-01-26 21:03:06,598 - DEBUG - LEFT candidate 0: base pen 1.309, combined pen 1.309, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,598 - DEBUG - LEFT candidate 1: base pen 2.074, combined pen 2.074, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,599 - DEBUG - LEFT candidate 2: base pen 2.133, combined pen 2.133, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,599 - DEBUG - LEFT candidate 3: base pen 2.253, combined pen 2.253, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,599 - DEBUG - LEFT candidate 4: base pen 2.316, combined pen 2.316, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,599 - DEBUG - LEFT candidate 5: base pen 2.441, combined pen 2.441, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,599 - DEBUG - LEFT candidate 6: base pen 2.441, combined pen 2.441, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,599 - DEBUG - LEFT candidate 7: base pen 2.482, combined pen 2.482, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,599 - DEBUG - LEFT candidate 8: base pen 2.839, combined pen 2.839, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,600 - DEBUG - LEFT candidate 9: base pen 3.100, combined pen 3.100, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,600 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+GAGTTTGTATGGCTTCTTCTGGTTCAGTGTTGGAAGTTGCACCAGTTTC Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,600 - DEBUG - Picked primer RIGHT:TGGCTTCTTCTGGTTCAGTGTT:1815
+2022-01-26 21:03:06,600 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+TGGCTTCTTCTGGTTCAGTGTT Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,600 - DEBUG - RIGHT candidate 0: base pen 0.724, combined pen 0.724, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,600 - DEBUG - RIGHT candidate 1: base pen 0.923, combined pen 0.923, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,600 - DEBUG - RIGHT candidate 2: base pen 1.113, combined pen 1.113, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,601 - DEBUG - RIGHT candidate 3: base pen 1.113, combined pen 1.113, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,601 - DEBUG - RIGHT candidate 4: base pen 1.248, combined pen 1.248, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,601 - DEBUG - RIGHT candidate 5: base pen 1.307, combined pen 1.307, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,601 - DEBUG - RIGHT candidate 6: base pen 1.497, combined pen 1.497, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,601 - DEBUG - RIGHT candidate 7: base pen 2.070, combined pen 2.070, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,601 - DEBUG - RIGHT candidate 8: base pen 2.070, combined pen 2.070, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,601 - DEBUG - RIGHT candidate 9: base pen 2.107, combined pen 2.107, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,603 - DEBUG - Window: left_limit 1602, slice_start 1729, right_limit 2580
+2022-01-26 21:03:06,603 - DEBUG - Region 9, pool 1
+2022-01-26 21:03:06,604 - DEBUG - Finding primers for slice 1729 to 2043
+2022-01-26 21:03:06,660 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+GTGAGATTAACGCCGAACTTGGTGTGGTCCCTAGTCTAAATGCAGTTGA Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,660 - DEBUG - Picked primer LEFT:TGAGATTAACGCCGAACTTGGT:1730
+2022-01-26 21:03:06,660 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+TGAGATTAACGCCGAACTTGGT Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,660 - DEBUG - LEFT candidate 0: base pen 0.530, combined pen 0.530, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,660 - DEBUG - LEFT candidate 1: base pen 0.918, combined pen 0.918, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,660 - DEBUG - LEFT candidate 2: base pen 0.918, combined pen 0.918, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,661 - DEBUG - LEFT candidate 3: base pen 1.660, combined pen 1.660, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,661 - DEBUG - LEFT candidate 4: base pen 1.661, combined pen 1.661, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,661 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+TTTCAGCATCAAACCTAAGGTATGTGAATAATTCCAGCTTTCTTCTTAA Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,661 - DEBUG - Picked primer RIGHT:TCAGCATCAAACCTAAGGTATGTGA:2041
+2022-01-26 21:03:06,661 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 25 columns
+TCAGCATCAAACCTAAGGTATGTGA Capsid_Fermon_SetinSpine_BsAI
+************************* Cigar
+2022-01-26 21:03:06,661 - DEBUG - RIGHT candidate 0: base pen 3.567, combined pen 3.567, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,661 - DEBUG - RIGHT candidate 1: base pen 4.034, combined pen 4.034, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,662 - DEBUG - RIGHT candidate 2: base pen 4.034, combined pen 4.034, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,662 - DEBUG - RIGHT candidate 3: base pen 4.266, combined pen 4.266, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,662 - DEBUG - RIGHT candidate 4: base pen 4.266, combined pen 4.266, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,662 - DEBUG - RIGHT candidate 5: base pen 4.713, combined pen 4.713, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,662 - DEBUG - RIGHT candidate 6: base pen 4.880, combined pen 4.880, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,662 - DEBUG - RIGHT candidate 7: base pen 5.300, combined pen 5.300, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,663 - DEBUG - RIGHT candidate 8: base pen 5.459, combined pen 5.459, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,663 - DEBUG - RIGHT candidate 9: base pen 5.459, combined pen 5.459, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,665 - DEBUG - Window: left_limit 1816, slice_start 1952, right_limit 2580
+2022-01-26 21:03:06,665 - DEBUG - Region 10, pool 2
+2022-01-26 21:03:06,665 - DEBUG - Finding primers for slice 1952 to 2266
+2022-01-26 21:03:06,715 - DEBUG - Stepping left to 1941
+2022-01-26 21:03:06,715 - DEBUG - Finding primers for slice 1941 to 2255
+2022-01-26 21:03:06,763 - DEBUG - Stepping left to 1930
+2022-01-26 21:03:06,763 - DEBUG - Finding primers for slice 1930 to 2244
+2022-01-26 21:03:06,814 - DEBUG - Primer interaction between AGTCATTCTAGCTGGGGGATCA and TAGTTGTTGGGCATGATCCACC predicted with a ∆G of -2.85 kcal/mol
+2022-01-26 21:03:06,817 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+CATCCAGCGCAGGGACACACAAAAACTTTTTTAAATGGACAATTAATAC Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,817 - DEBUG - Picked primer LEFT:CGCAGGGACACACAAAAACTTT:1937
+2022-01-26 21:03:06,817 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+CGCAGGGACACACAAAAACTTT Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,818 - DEBUG - LEFT candidate 0: base pen 0.404, combined pen 0.404, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,818 - DEBUG - LEFT candidate 1: base pen 1.171, combined pen 1.171, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,818 - DEBUG - LEFT candidate 2: base pen 2.033, combined pen 2.033, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,818 - DEBUG - LEFT candidate 3: base pen 2.051, combined pen 2.051, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,818 - DEBUG - LEFT candidate 4: base pen 2.114, combined pen 2.114, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,818 - DEBUG - LEFT candidate 5: base pen 2.313, combined pen 2.313, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,818 - DEBUG - LEFT candidate 6: base pen 2.314, combined pen 2.314, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,819 - DEBUG - LEFT candidate 7: base pen 2.314, combined pen 2.314, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,819 - DEBUG - LEFT candidate 8: base pen 2.700, combined pen 2.700, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,819 - DEBUG - LEFT candidate 9: base pen 2.740, combined pen 2.740, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,819 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+AAGGTATAGTCATTCTAGCTGGGGGATCAGAAATTTTAAAGAACACACT Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,819 - DEBUG - Picked primer RIGHT:TCATTCTAGCTGGGGGATCAGA:2235
+2022-01-26 21:03:06,819 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+TCATTCTAGCTGGGGGATCAGA Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,819 - DEBUG - RIGHT candidate 0: *interaction, base pen 0.452, combined pen 0.452, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,820 - DEBUG - RIGHT candidate 1: base pen 0.722, combined pen 0.722, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,820 - DEBUG - RIGHT candidate 2: base pen 0.856, combined pen 0.856, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,820 - DEBUG - RIGHT candidate 3: base pen 1.105, combined pen 1.105, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,820 - DEBUG - RIGHT candidate 4: base pen 1.523, combined pen 1.523, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,820 - DEBUG - RIGHT candidate 5: base pen 1.526, combined pen 1.526, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,820 - DEBUG - RIGHT candidate 6: base pen 1.621, combined pen 1.621, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,820 - DEBUG - RIGHT candidate 7: base pen 1.879, combined pen 1.879, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,821 - DEBUG - RIGHT candidate 8: base pen 2.084, combined pen 2.084, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,821 - DEBUG - RIGHT candidate 9: base pen 2.086, combined pen 2.086, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,823 - DEBUG - Window: left_limit 2042, slice_start 2149, right_limit 2580
+2022-01-26 21:03:06,823 - DEBUG - Region 11, pool 1
+2022-01-26 21:03:06,823 - DEBUG - Finding primers for slice 2149 to 2463
+2022-01-26 21:03:06,869 - DEBUG - Stepping left to 2138
+2022-01-26 21:03:06,869 - DEBUG - Finding primers for slice 2138 to 2452
+2022-01-26 21:03:06,915 - DEBUG - Stepping left to 2127
+2022-01-26 21:03:06,915 - DEBUG - Finding primers for slice 2127 to 2441
+2022-01-26 21:03:06,982 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+TTTGTACCAACTGGTGCTCTTACTCCAAAGGAGCAGGATTCATTTCATT Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,982 - DEBUG - Picked primer LEFT:CCAACTGGTGCTCTTACTCCAA:2133
+2022-01-26 21:03:06,982 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 22 columns
+CCAACTGGTGCTCTTACTCCAA Capsid_Fermon_SetinSpine_BsAI
+********************** Cigar
+2022-01-26 21:03:06,982 - DEBUG - LEFT candidate 0: base pen 0.593, combined pen 0.593, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,982 - DEBUG - LEFT candidate 1: base pen 0.856, combined pen 0.856, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,983 - DEBUG - LEFT candidate 2: base pen 1.002, combined pen 1.002, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,983 - DEBUG - LEFT candidate 3: base pen 1.120, combined pen 1.120, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,983 - DEBUG - LEFT candidate 4: base pen 1.247, combined pen 1.247, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,983 - DEBUG - LEFT candidate 5: base pen 1.528, combined pen 1.528, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,983 - DEBUG - LEFT candidate 6: base pen 2.244, combined pen 2.244, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,983 - DEBUG - LEFT candidate 7: base pen 2.250, combined pen 2.250, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,983 - DEBUG - LEFT candidate 8: base pen 2.893, combined pen 2.893, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,984 - DEBUG - LEFT candidate 9: base pen 2.893, combined pen 2.893, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,984 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+TGGAGCCCATGCTTTTATATGTTTAGGCTTCATGTAAACCCTAACGGTC Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:06,984 - DEBUG - Picked primer RIGHT:GCCCATGCTTTTATATGTTTAGGCT:2437
+2022-01-26 21:03:06,984 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 25 columns
+GCCCATGCTTTTATATGTTTAGGCT Capsid_Fermon_SetinSpine_BsAI
+************************* Cigar
+2022-01-26 21:03:06,984 - DEBUG - RIGHT candidate 0: base pen 3.628, combined pen 3.628, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,984 - DEBUG - RIGHT candidate 1: base pen 4.097, combined pen 4.097, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,984 - DEBUG - RIGHT candidate 2: base pen 5.304, combined pen 5.304, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,985 - DEBUG - RIGHT candidate 3: base pen 5.702, combined pen 5.702, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,985 - DEBUG - RIGHT candidate 4: base pen 6.025, combined pen 6.025, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,985 - DEBUG - RIGHT candidate 5: base pen 6.812, combined pen 6.812, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,985 - DEBUG - RIGHT candidate 6: base pen 7.966, combined pen 7.966, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:06,987 - DEBUG - Window: left_limit 2236, slice_start 2265, right_limit 2580
+2022-01-26 21:03:06,987 - DEBUG - Region 12, pool 2
+2022-01-26 21:03:06,987 - DEBUG - Finding primers for slice 2265 to 2579
+2022-01-26 21:03:07,036 - DEBUG - Primer interaction between GGTGGTTACTATGTTGTGAGGCA and GTGCCTGAGTCCGTTAAACTCA predicted with a ∆G of -2.70 kcal/mol
+2022-01-26 21:03:07,040 - DEBUG - Left region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+TATTCAGTTTTTTATGATGGCTTTGCTGGATTTGAGAAAAATGGTCTAT Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:07,040 - DEBUG - Picked primer LEFT:TTTTATGATGGCTTTGCTGGATTTG:2274
+2022-01-26 21:03:07,040 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 25 columns
+TTTTATGATGGCTTTGCTGGATTTG Capsid_Fermon_SetinSpine_BsAI
+************************* Cigar
+2022-01-26 21:03:07,041 - DEBUG - LEFT candidate 0: base pen 4.496, combined pen 4.496, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,041 - DEBUG - LEFT candidate 1: base pen 4.936, combined pen 4.936, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,041 - DEBUG - Right region flank MSA: Alphabet() alignment with 1 rows and 49 columns
+GGTGGTTACTATGTTGTGAGGCATAGTTGTGACACTCGCTCTATTACCA Capsid_Fermon_SetinSpine_BsAI
+2022-01-26 21:03:07,041 - DEBUG - Picked primer RIGHT:TGTTGTGAGGCATAGTTGTGACA:2568
+2022-01-26 21:03:07,041 - DEBUG - Picked MSA slice: Alphabet() alignment with 2 rows and 23 columns
+TGTTGTGAGGCATAGTTGTGACA Capsid_Fermon_SetinSpine_BsAI
+*********************** Cigar
+2022-01-26 21:03:07,041 - DEBUG - RIGHT candidate 0: *interaction, base pen 1.187, combined pen 1.187, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,042 - DEBUG - RIGHT candidate 1: base pen 1.312, combined pen 1.312, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,042 - DEBUG - RIGHT candidate 2: base pen 2.069, combined pen 2.069, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,042 - DEBUG - RIGHT candidate 3: base pen 2.189, combined pen 2.189, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,042 - DEBUG - RIGHT candidate 4: base pen 3.012, combined pen 3.012, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,042 - DEBUG - RIGHT candidate 5: base pen 3.104, combined pen 3.104, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,042 - DEBUG - RIGHT candidate 6: base pen 3.689, combined pen 3.689, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,042 - DEBUG - RIGHT candidate 7: base pen 4.147, combined pen 4.147, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,043 - DEBUG - RIGHT candidate 8: base pen 4.728, combined pen 4.728, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,043 - DEBUG - RIGHT candidate 9: base pen 4.838, combined pen 4.838, 0 max mismatches, 0 total mismatches.
+2022-01-26 21:03:07,045 - INFO - Writing /outputs/ace08c3bf35c4dc4815077071a6435e0/Fermon.primer.bed
+2022-01-26 21:03:07,046 - INFO - Writing /outputs/ace08c3bf35c4dc4815077071a6435e0/Fermon.insert.bed
+2022-01-26 21:03:07,046 - INFO - Writing /outputs/ace08c3bf35c4dc4815077071a6435e0/Fermon.primer.tsv
+2022-01-26 21:03:07,047 - INFO - Writing /outputs/ace08c3bf35c4dc4815077071a6435e0/Fermon.reference.fasta
+2022-01-26 21:03:07,059 - INFO - Writing /outputs/ace08c3bf35c4dc4815077071a6435e0/Fermon.plot.pdf
+2022-01-26 21:03:07,059 - INFO - Writing /outputs/ace08c3bf35c4dc4815077071a6435e0/Fermon.plot.svg
+2022-01-26 21:03:07,105 - INFO - Writing /outputs/ace08c3bf35c4dc4815077071a6435e0/Fermon.report.json
