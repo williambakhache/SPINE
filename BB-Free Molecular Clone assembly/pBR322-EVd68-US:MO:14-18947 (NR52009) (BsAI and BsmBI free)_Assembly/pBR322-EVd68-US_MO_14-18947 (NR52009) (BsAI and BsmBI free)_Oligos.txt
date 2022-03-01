@@ -1,0 +1,2 @@
+PCR frg._fwd	tagctactaccaatgctgg	25nm	STD
+PCR frg._rev	gcggtaaagctcatcagc	25nm	STD
