@@ -1,2 +1,0 @@
-PCRFragment_fwd	ggcaatcaggcagtaatg	25nm	STD
-PCRFragment_rev	taactgtcagaccaagtttac	25nm	STD

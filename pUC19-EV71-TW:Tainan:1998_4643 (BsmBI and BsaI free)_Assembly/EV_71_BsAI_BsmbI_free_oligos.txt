@@ -1,4 +1,0 @@
-PCRFragment_2_fwd	agcagacaagcccgtcag	25nm	STD
-PCRFragment_2_rev	ttggtttgtgccaggtttc	25nm	STD
-PCR_Frg_1_fwd	tgagaatgacatttgggc	25nm	STD
-PCR_Frg_1_rev	ataagtcgtgtcttaccg	25nm	STD
